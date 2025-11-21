@@ -1,5 +1,4 @@
 # Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-#### Date: 29/08/2025
 #### Name: SHYAM S
 #### Reg.No: 212223240156
 
